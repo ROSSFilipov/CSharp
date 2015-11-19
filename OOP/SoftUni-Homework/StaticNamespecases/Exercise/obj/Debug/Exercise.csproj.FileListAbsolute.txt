@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\Exercise\bin\Debug\Exercise.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache

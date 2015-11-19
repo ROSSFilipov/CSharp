@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\Point3D\bin\Debug\Point3D.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\Point3D\bin\Debug\Point3D.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\Point3D\bin\Debug\Point3D.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\Point3D\obj\Debug\Point3D.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\Point3D\obj\Debug\Point3D.pdb
+c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache

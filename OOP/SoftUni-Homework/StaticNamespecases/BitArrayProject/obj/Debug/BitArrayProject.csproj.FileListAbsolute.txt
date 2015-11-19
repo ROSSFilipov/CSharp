@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\BitArrayProject\bin\Debug\BitArrayProject.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\BitArrayProject\bin\Debug\BitArrayProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\BitArrayProject\bin\Debug\BitArrayProject.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\BitArrayProject\obj\Debug\BitArrayProject.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\BitArrayProject\obj\Debug\BitArrayProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\BitArrayProject\obj\Debug\BitArrayProject.pdb

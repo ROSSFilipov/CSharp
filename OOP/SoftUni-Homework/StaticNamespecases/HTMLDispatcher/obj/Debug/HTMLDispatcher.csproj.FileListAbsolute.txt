@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\HTMLDispatcher\bin\Debug\HTMLDispatcher.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\HTMLDispatcher\bin\Debug\HTMLDispatcher.pdb
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\HTMLDispatcher\obj\Debug\HTMLDispatcher.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\HTMLDispatcher\obj\Debug\HTMLDispatcher.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-OOP-StaticNamespecases-Homework\HTMLDispatcher\obj\Debug\HTMLDispatcher.pdb

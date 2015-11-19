@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-Homework\LaptopShop\bin\Debug\LaptopShop.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-Homework\LaptopShop\bin\Debug\LaptopShop.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-Homework\LaptopShop\bin\Debug\LaptopShop.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-Homework\LaptopShop\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-Homework\LaptopShop\obj\Debug\LaptopShop.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DefiningClasses-Homework\LaptopShop\obj\Debug\LaptopShop.pdb
