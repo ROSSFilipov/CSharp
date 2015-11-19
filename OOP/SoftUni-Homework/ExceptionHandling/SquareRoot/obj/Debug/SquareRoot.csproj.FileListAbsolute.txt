@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-ExceptionHandling-Homework\SquareRoot\bin\Debug\SquareRoot.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-ExceptionHandling-Homework\SquareRoot\bin\Debug\SquareRoot.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-ExceptionHandling-Homework\SquareRoot\bin\Debug\SquareRoot.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-ExceptionHandling-Homework\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-ExceptionHandling-Homework\SquareRoot\obj\Debug\SquareRoot.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-ExceptionHandling-Homework\SquareRoot\obj\Debug\SquareRoot.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\ExceptionHandling\SquareRoot\bin\Debug\SquareRoot.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\ExceptionHandling\SquareRoot\obj\Debug\SquareRoot.pdb
