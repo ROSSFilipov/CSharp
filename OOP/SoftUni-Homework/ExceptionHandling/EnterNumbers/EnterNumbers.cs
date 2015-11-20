@@ -14,21 +14,21 @@ namespace EnterNumbers
             int end;
             int[] array = new int[10];
 
-            while (true)
+            ReadStartNumber(out start);
+            //start = 1;
+
+            ReadEndNumber(start, out end);
+            //end = 100;
+
+            int previousNumber = start;
+            for (int i = 0; i < 10; i++)
             {
-                ReadStartNumber(out start);
-
-                ReadEndNumber(start, out end);
-
-                Console.WriteLine("Please enter 10 numbers in the range [{0}...{1}].", start, end);
-                for (int i = 0; i < 10; i++)
-                {
-                    array[i] = ReadNumber(start, end, array);
-                }
-
-                Console.WriteLine("The numbers are: [{0}]", string.Join(", ", array));
-                break;
+                Console.WriteLine("Please enter a number in the range [{0}...{1}].", previousNumber, end);
+                array[i] = ReadNumber(start, end, previousNumber);
+                previousNumber = array[i];
             }
+
+            Console.WriteLine("The numbers are: [{0}]", string.Join(", ", array));
         }
 
         private static void ReadStartNumber(out int start)
@@ -86,7 +86,7 @@ namespace EnterNumbers
             }
         }
 
-        private static int ReadNumber(int start, int end, int[] array)
+        private static int ReadNumber(int start, int end, int previousNumber)
         {
             int currentNumber;
 
@@ -99,6 +99,11 @@ namespace EnterNumbers
                     if (!validCurrentNumber)
                     {
                         throw new FormatException();
+                    }
+
+                    if (currentNumber <= previousNumber)
+                    {
+                        throw new ArgumentOutOfRangeException();
                     }
 
                     if (currentNumber < start || currentNumber > end)
@@ -115,6 +120,10 @@ namespace EnterNumbers
                 catch (IndexOutOfRangeException)
                 {
                     Console.WriteLine("The number you entered is out of range!");
+                }
+                catch (ArgumentOutOfRangeException)
+                {
+                    Console.WriteLine("The number you entered should be bigger than the previous one!");
                 }
             }
 
