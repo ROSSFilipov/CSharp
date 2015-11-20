@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TargetPractice\bin\Debug\TargetPractice.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TargetPractice\bin\Debug\TargetPractice.exe
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TargetPractice\bin\Debug\TargetPractice.pdb
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TargetPractice\obj\Debug\TargetPractice.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TargetPractice\obj\Debug\TargetPractice.exe
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TargetPractice\obj\Debug\TargetPractice.pdb

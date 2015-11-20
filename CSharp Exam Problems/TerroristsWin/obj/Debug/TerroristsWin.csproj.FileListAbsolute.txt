@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\TerroristsWin\bin\Debug\TerroristsWin.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\TerroristsWin\bin\Debug\TerroristsWin.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\TerroristsWin\bin\Debug\TerroristsWin.pdb
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\TerroristsWin\obj\Debug\TerroristsWin.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\TerroristsWin\obj\Debug\TerroristsWin.pdb

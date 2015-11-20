@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonTrap\bin\Debug\DragonTrap.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonTrap\bin\Debug\DragonTrap.exe
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonTrap\bin\Debug\DragonTrap.pdb
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonTrap\obj\Debug\DragonTrap.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonTrap\obj\Debug\DragonTrap.exe
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonTrap\obj\Debug\DragonTrap.pdb

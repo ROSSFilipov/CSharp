@@ -1,0 +1,12 @@
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ITVillage\bin\Debug\ITVillage.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ITVillage\bin\Debug\ITVillage.exe
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ITVillage\bin\Debug\ITVillage.pdb
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ITVillage\obj\Debug\ITVillage.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ITVillage\obj\Debug\ITVillage.exe
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ITVillage\obj\Debug\ITVillage.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ITVillage\bin\Debug\ITVillage.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ITVillage\bin\Debug\ITVillage.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ITVillage\bin\Debug\ITVillage.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ITVillage\obj\Debug\ITVillage.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ITVillage\obj\Debug\ITVillage.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ITVillage\obj\Debug\ITVillage.pdb

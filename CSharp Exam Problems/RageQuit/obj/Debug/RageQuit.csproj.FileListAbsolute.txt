@@ -1,0 +1,12 @@
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\RageQuit\bin\Debug\RageQuit.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\RageQuit\bin\Debug\RageQuit.exe
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\RageQuit\bin\Debug\RageQuit.pdb
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\RageQuit\obj\Debug\RageQuit.exe
+C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\RageQuit\obj\Debug\RageQuit.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\RageQuit\bin\Debug\RageQuit.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\RageQuit\bin\Debug\RageQuit.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\RageQuit\bin\Debug\RageQuit.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\RageQuit\obj\Debug\RageQuit.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\RageQuit\obj\Debug\RageQuit.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\RageQuit\obj\Debug\RageQuit.pdb

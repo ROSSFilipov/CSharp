@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonAccounting\bin\Debug\DragonAccounting.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonAccounting\bin\Debug\DragonAccounting.exe
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonAccounting\bin\Debug\DragonAccounting.pdb
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonAccounting\obj\Debug\DragonAccounting.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonAccounting\obj\Debug\DragonAccounting.exe
+C:\Users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonAccounting\obj\Debug\DragonAccounting.pdb

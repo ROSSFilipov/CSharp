@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\CommandInterpreter\bin\Debug\CommandInterpreter.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\CommandInterpreter\bin\Debug\CommandInterpreter.exe
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\CommandInterpreter\bin\Debug\CommandInterpreter.pdb
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\CommandInterpreter\obj\Debug\CommandInterpreter.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\CommandInterpreter\obj\Debug\CommandInterpreter.exe
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\CommandInterpreter\obj\Debug\CommandInterpreter.pdb

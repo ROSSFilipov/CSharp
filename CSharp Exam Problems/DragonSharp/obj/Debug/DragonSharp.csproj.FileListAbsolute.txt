@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonSharp\bin\Debug\DragonSharp.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonSharp\bin\Debug\DragonSharp.exe
+c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonSharp\bin\Debug\DragonSharp.pdb
+c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonSharp\obj\Debug\DragonSharp.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonSharp\obj\Debug\DragonSharp.exe
+c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonSharp\obj\Debug\DragonSharp.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\CouplesFrequency\bin\Debug\CouplesFrequency.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\CouplesFrequency\bin\Debug\CouplesFrequency.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\CouplesFrequency\bin\Debug\CouplesFrequency.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\CouplesFrequency\obj\Debug\CouplesFrequency.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\CouplesFrequency\obj\Debug\CouplesFrequency.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\CouplesFrequency\obj\Debug\CouplesFrequency.pdb

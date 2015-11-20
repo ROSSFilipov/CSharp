@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ArraySlider\bin\Debug\ArraySlider.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ArraySlider\bin\Debug\ArraySlider.exe
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ArraySlider\bin\Debug\ArraySlider.pdb
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ArraySlider\obj\Debug\ArraySlider.exe
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ArraySlider\obj\Debug\ArraySlider.pdb
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ArraySlider\obj\Debug\ArraySlider.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ArraySlider\bin\Debug\ArraySlider.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ArraySlider\obj\Debug\ArraySlider.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ArraySlider\obj\Debug\ArraySlider.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ArraySlider\bin\Debug\ArraySlider.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ArraySlider\bin\Debug\ArraySlider.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ArraySlider\obj\Debug\ArraySlider.csprojResolveAssemblyReference.cache

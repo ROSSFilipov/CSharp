@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\ActivityTracker\bin\Debug\ActivityTracker.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\ActivityTracker\bin\Debug\ActivityTracker.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\ActivityTracker\bin\Debug\ActivityTracker.pdb
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\ActivityTracker\obj\Debug\ActivityTracker.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\ActivityTracker\obj\Debug\ActivityTracker.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\ActivityTracker\obj\Debug\ActivityTracker.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\PhoneNumbers\bin\Debug\PhoneNumbers.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\PhoneNumbers\bin\Debug\PhoneNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\PhoneNumbers\bin\Debug\PhoneNumbers.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\PhoneNumbers\obj\Debug\PhoneNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\PhoneNumbers\obj\Debug\PhoneNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\PhoneNumbers\obj\Debug\PhoneNumbers.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\PhoneNumbers\bin\Debug\PhoneNumbers.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\PhoneNumbers\bin\Debug\PhoneNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\PhoneNumbers\bin\Debug\PhoneNumbers.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\PhoneNumbers\obj\Debug\PhoneNumbers.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\PhoneNumbers\obj\Debug\PhoneNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\PhoneNumbers\obj\Debug\PhoneNumbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BiggestTableRow\bin\Debug\BiggestTableRow.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BiggestTableRow\bin\Debug\BiggestTableRow.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BiggestTableRow\bin\Debug\BiggestTableRow.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BiggestTableRow\obj\Debug\BiggestTableRow.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BiggestTableRow\obj\Debug\BiggestTableRow.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BiggestTableRow\obj\Debug\BiggestTableRow.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BiggestTableRow\bin\Debug\BiggestTableRow.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BiggestTableRow\obj\Debug\BiggestTableRow.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BiggestTableRow\obj\Debug\BiggestTableRow.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BiggestTableRow\bin\Debug\BiggestTableRow.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BiggestTableRow\bin\Debug\BiggestTableRow.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BiggestTableRow\obj\Debug\BiggestTableRow.csprojResolveAssemblyReference.cache

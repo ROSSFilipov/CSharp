@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ChatLogger\bin\Debug\ChatLogger.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ChatLogger\bin\Debug\ChatLogger.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ChatLogger\bin\Debug\ChatLogger.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ChatLogger\obj\Debug\ChatLogger.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ChatLogger\obj\Debug\ChatLogger.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\ChatLogger\obj\Debug\ChatLogger.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ChatLogger\bin\Debug\ChatLogger.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ChatLogger\bin\Debug\ChatLogger.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ChatLogger\bin\Debug\ChatLogger.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ChatLogger\obj\Debug\ChatLogger.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ChatLogger\obj\Debug\ChatLogger.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\ChatLogger\obj\Debug\ChatLogger.pdb

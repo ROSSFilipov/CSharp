@@ -1,0 +1,6 @@
+c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\SingingCats\bin\Debug\SingingCats.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\SingingCats\bin\Debug\SingingCats.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\SingingCats\bin\Debug\SingingCats.pdb
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\SingingCats\obj\Debug\SingingCats.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\SingingCats\obj\Debug\SingingCats.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\SingingCats\obj\Debug\SingingCats.pdb

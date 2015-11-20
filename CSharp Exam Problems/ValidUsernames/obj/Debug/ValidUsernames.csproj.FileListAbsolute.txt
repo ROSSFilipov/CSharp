@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\ValidUsernames\bin\Debug\ValidUsernames.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\ValidUsernames\bin\Debug\ValidUsernames.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\ValidUsernames\bin\Debug\ValidUsernames.pdb
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\ValidUsernames\obj\Debug\ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\ValidUsernames\obj\Debug\ValidUsernames.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\ValidUsernames\obj\Debug\ValidUsernames.pdb

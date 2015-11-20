@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Shmoogle\bin\Debug\Shmoogle.exe.config
+c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Shmoogle\bin\Debug\Shmoogle.exe
+c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Shmoogle\bin\Debug\Shmoogle.pdb
+c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Shmoogle\obj\Debug\Shmoogle.exe
+c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Shmoogle\obj\Debug\Shmoogle.pdb
+c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Shmoogle\obj\Debug\Shmoogle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\PlusRemove\bin\Debug\PlusRemove.exe.config
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\PlusRemove\bin\Debug\PlusRemove.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\PlusRemove\bin\Debug\PlusRemove.pdb
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\PlusRemove\obj\Debug\PlusRemove.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\PlusRemove\obj\Debug\PlusRemove.exe
+C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\PlusRemove\obj\Debug\PlusRemove.pdb

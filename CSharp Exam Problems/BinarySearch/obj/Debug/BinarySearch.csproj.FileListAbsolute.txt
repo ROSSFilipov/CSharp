@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BinarySearch\obj\Debug\BinarySearch.pdb

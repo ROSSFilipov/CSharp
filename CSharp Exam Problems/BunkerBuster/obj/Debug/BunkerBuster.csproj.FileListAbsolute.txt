@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BunkerBuster\bin\Debug\BunkerBuster.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BunkerBuster\bin\Debug\BunkerBuster.exe
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BunkerBuster\bin\Debug\BunkerBuster.pdb
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BunkerBuster\obj\Debug\BunkerBuster.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BunkerBuster\obj\Debug\BunkerBuster.exe
+c:\users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\BunkerBuster\obj\Debug\BunkerBuster.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BunkerBuster\bin\Debug\BunkerBuster.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BunkerBuster\obj\Debug\BunkerBuster.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BunkerBuster\obj\Debug\BunkerBuster.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BunkerBuster\bin\Debug\BunkerBuster.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BunkerBuster\bin\Debug\BunkerBuster.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\BunkerBuster\obj\Debug\BunkerBuster.csprojResolveAssemblyReference.cache

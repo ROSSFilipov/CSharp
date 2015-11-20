@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\TheNumbers\bin\Debug\TheNumbers.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\TheNumbers\bin\Debug\TheNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\TheNumbers\bin\Debug\TheNumbers.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\TheNumbers\obj\Debug\TheNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\TheNumbers\obj\Debug\TheNumbers.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\TheNumbers\bin\Debug\TheNumbers.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\TheNumbers\bin\Debug\TheNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\TheNumbers\bin\Debug\TheNumbers.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\TheNumbers\obj\Debug\TheNumbers.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\CSharp Exam Problems\TheNumbers\obj\Debug\TheNumbers.pdb
