@@ -8,11 +8,12 @@ namespace EnterNumbers
 {
     class EnterNumbers
     {
+        private const int ARRAY_SIZE = 10;      
         static void Main(string[] args)
         {
             int start;
             int end;
-            int[] array = new int[10];
+            int[] array = new int[ARRAY_SIZE];
 
             ReadStartNumber(out start);
             //start = 1;
