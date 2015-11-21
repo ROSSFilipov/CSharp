@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\Lab November 2015 Football League\FootballLeague\FootballLeagueProject\bin\Debug\FootballLeagueProject.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\Lab November 2015 Football League\FootballLeague\FootballLeagueProject\obj\Debug\FootballLeagueProject.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\Lab November 2015 Football League\FootballLeague\FootballLeagueProject\bin\Debug\FootballLeagueProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\Lab November 2015 Football League\FootballLeague\FootballLeagueProject\bin\Debug\FootballLeagueProject.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\Lab November 2015 Football League\FootballLeague\FootballLeagueProject\obj\Debug\FootballLeagueProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\Lab November 2015 Football League\FootballLeague\FootballLeagueProject\obj\Debug\FootballLeagueProject.pdb
