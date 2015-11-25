@@ -92,7 +92,7 @@ namespace CustomTree
 
         public override string ToString()
         {
-            return string.Format("Node: {0} number of left connections: {1}, number of right connections: {2}", 
+            return string.Format("Node: {0} number of left connections: {1}, number of right connections: {2}",
                 this.Value, this.LeftChildren.Count, this.RightChildren.Count);
         }
     }

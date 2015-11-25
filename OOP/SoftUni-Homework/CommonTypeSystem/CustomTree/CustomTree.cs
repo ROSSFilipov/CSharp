@@ -21,19 +21,14 @@ namespace CustomTree
             root.LeftChildren.Find(x => x.Value == 2).LeftChildren.Add(new TreeNode(7));
 
             BinarySearchTree customTree = new BinarySearchTree(root);
-
-            foreach (TreeNode item in customTree)
-            {
-                Console.WriteLine(item);
-            }
+            Console.WriteLine(customTree);
 
             BinarySearchTree clonedTree = customTree.Clone() as BinarySearchTree;
-            clonedTree.Search(6).LeftChildren.Add(new TreeNode(10));
+            clonedTree.Search(5).LeftChildren.Add(new TreeNode(10));
 
-            foreach (TreeNode item in clonedTree)
-            {
-                Console.WriteLine(item);
-            }
+            Console.WriteLine();
+            Console.WriteLine("Cloned tree after modification:");
+            Console.WriteLine(clonedTree);
         }
     }
 }

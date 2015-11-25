@@ -141,14 +141,17 @@ namespace CustomTree
 
         public object Clone()
         {
+            //Here by we can clone the whole tree by just cloning the root where the whole tree is implemented
             TreeNode clonedRoot = this.Root.Clone() as TreeNode;
             BinarySearchTree clonedTree = new BinarySearchTree(clonedRoot);
 
-            CloneDFS(this.Root, clonedTree);
+            //CloneDFS(this.Root, clonedTree);
 
             return clonedTree;
         }
 
+        //The method below does not work properly and throws an exception as after the first recursion call
+        //the cloned tree has already been modified
         private void CloneDFS(TreeNode rootNode, BinarySearchTree clonedTree)
         {
             TreeNode currentClonedNode = clonedTree.Search(rootNode.Value);
@@ -169,6 +172,30 @@ namespace CustomTree
         public void Add(TreeNode node)
         {
             throw new NotImplementedException();
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            StringBuilderDFS(this.Root, sb, 0);
+
+            return sb.ToString();
+        }
+
+        private void StringBuilderDFS(TreeNode rootNode, StringBuilder sb, int index)
+        {
+            sb.AppendLine(string.Format("{0}-> {1}", new string(' ', index), rootNode.Value));
+
+            foreach (TreeNode childNode in rootNode.LeftChildren)
+            {
+                StringBuilderDFS(childNode, sb, index + 2);
+            }
+
+            foreach (TreeNode childNode in rootNode.RightChildren)
+            {
+                StringBuilderDFS(childNode, sb, index + 2);
+            }
         }
     }
 }
