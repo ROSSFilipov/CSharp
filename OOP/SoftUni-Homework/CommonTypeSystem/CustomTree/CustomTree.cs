@@ -24,6 +24,7 @@ namespace CustomTree
             Console.WriteLine(customTree);
 
             BinarySearchTree clonedTree = customTree.Clone() as BinarySearchTree;
+            TreeNode temp = clonedTree.Search(5);
             clonedTree.Search(5).LeftChildren.Add(new TreeNode(10));
 
             Console.WriteLine();

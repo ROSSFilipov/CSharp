@@ -76,30 +76,22 @@ namespace CustomTree
         {
             foreach (TreeNode currentNode in treeNode.LeftChildren)
             {
-                if (!currentNode.IsVisited)
+                if (currentNode.Value == nodeToBeFound)
                 {
-                    if (currentNode.Value == nodeToBeFound)
-                    {
-                        return currentNode;
-                    }
-
-                    currentNode.IsVisited = true;
-                    SearchDFS(currentNode, nodeToBeFound);
+                    return currentNode;
                 }
+
+                SearchDFS(currentNode, nodeToBeFound);
             }
 
             foreach (TreeNode currentNode in treeNode.RightChildren)
             {
-                if (!currentNode.IsVisited)
+                if (currentNode.Value == nodeToBeFound)
                 {
-                    if (currentNode.Value == nodeToBeFound)
-                    {
-                        return currentNode;
-                    }
-
-                    currentNode.IsVisited = true;
-                    SearchDFS(currentNode, nodeToBeFound);
+                    return currentNode;
                 }
+
+                SearchDFS(currentNode, nodeToBeFound);
             }
 
             return null;
@@ -142,31 +134,42 @@ namespace CustomTree
         public object Clone()
         {
             //Here by we can clone the whole tree by just cloning the root where the whole tree is implemented
-            TreeNode clonedRoot = this.Root.Clone() as TreeNode;
-            BinarySearchTree clonedTree = new BinarySearchTree(clonedRoot);
+            //TreeNode clonedRoot = this.Root.Clone() as TreeNode;
+            //BinarySearchTree clonedTree = new BinarySearchTree(clonedRoot);
+            //return clonedTree;
 
-            //CloneDFS(this.Root, clonedTree);
-
-            return clonedTree;
+            //With the method below we can reassemble the cloned tree by using the given root of the original tree
+            //by using the breath first search algorithm
+            BinarySearchTree assembledTree = AssembleTree(this.Root);
+            return assembledTree;
         }
 
-        //The method below does not work properly and throws an exception as after the first recursion call
-        //the cloned tree has already been modified
-        private void CloneDFS(TreeNode rootNode, BinarySearchTree clonedTree)
+        private BinarySearchTree AssembleTree(TreeNode rootNode)
         {
-            TreeNode currentClonedNode = clonedTree.Search(rootNode.Value);
+            BinarySearchTree clonedTree = new BinarySearchTree(new TreeNode(rootNode.Value));
 
-            foreach (TreeNode childNode in rootNode.LeftChildren)
+            Queue<TreeNode> nodeQueue = new Queue<TreeNode>();
+            nodeQueue.Enqueue(rootNode);
+
+            while (nodeQueue.Count != 0)
             {
-                currentClonedNode.LeftChildren.Add(childNode.Clone() as TreeNode);
-                CloneDFS(childNode, clonedTree);
+                TreeNode originalNode = nodeQueue.Dequeue();
+                TreeNode clonedNode = clonedTree.Search(originalNode.Value);
+
+                foreach (TreeNode childNode in originalNode.LeftChildren)
+                {
+                    clonedNode.LeftChildren.Add(new TreeNode(childNode.Value));
+                    nodeQueue.Enqueue(childNode);
+                }
+
+                foreach (TreeNode childNode in originalNode.RightChildren)
+                {
+                    clonedNode.RightChildren.Add(new TreeNode(childNode.Value));
+                    nodeQueue.Enqueue(childNode);
+                }
             }
 
-            foreach (TreeNode childNode in rootNode.RightChildren)
-            {
-                currentClonedNode.RightChildren.Add(childNode.Clone() as TreeNode);
-                CloneDFS(childNode, clonedTree);
-            }
+            return clonedTree;
         }
 
         public void Add(TreeNode node)
