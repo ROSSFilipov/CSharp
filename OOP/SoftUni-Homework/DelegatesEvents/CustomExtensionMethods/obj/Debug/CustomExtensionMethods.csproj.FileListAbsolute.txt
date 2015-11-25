@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\CustomExtensionMethods\bin\Debug\CustomExtensionMethods.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\CustomExtensionMethods\bin\Debug\CustomExtensionMethods.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\CustomExtensionMethods\bin\Debug\CustomExtensionMethods.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\CustomExtensionMethods\bin\Debug\ExerciseOne.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\CustomExtensionMethods\bin\Debug\ExerciseOne.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\CustomExtensionMethods\obj\Debug\CustomExtensionMethods.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\CustomExtensionMethods\obj\Debug\CustomExtensionMethods.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\CustomExtensionMethods\obj\Debug\CustomExtensionMethods.pdb

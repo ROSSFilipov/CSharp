@@ -1,0 +1,12 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\Shapes\ShapesProject\bin\Debug\ShapesProject.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\Shapes\ShapesProject\obj\Debug\ShapesProject.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\Shapes\ShapesProject\bin\Debug\ShapesProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\Shapes\ShapesProject\bin\Debug\ShapesProject.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\Shapes\ShapesProject\obj\Debug\ShapesProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\Shapes\ShapesProject\obj\Debug\ShapesProject.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsulationAndPolymorphismHomework\ShapesProject\bin\Debug\ShapesProject.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsulationAndPolymorphismHomework\ShapesProject\obj\Debug\ShapesProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsulationAndPolymorphismHomework\ShapesProject\obj\Debug\ShapesProject.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsAndPolymHomework\ShapesProject\bin\Debug\ShapesProject.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsAndPolymHomework\ShapesProject\obj\Debug\ShapesProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsAndPolymHomework\ShapesProject\obj\Debug\ShapesProject.pdb

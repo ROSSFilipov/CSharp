@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GenericList\bin\Debug\GenericList.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GenericList\bin\Debug\GenericList.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GenericList\bin\Debug\GenericList.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GenericList\obj\Debug\GenericList.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GenericList\obj\Debug\GenericList.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GenericList\obj\Debug\GenericList.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GenericList\obj\Debug\GenericList.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GenericList\bin\Debug\GenericList.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GenericList\bin\Debug\GenericList.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache

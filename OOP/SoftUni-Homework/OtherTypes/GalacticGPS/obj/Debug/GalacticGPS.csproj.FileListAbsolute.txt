@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GalacticGPS\bin\Debug\GalacticGPS.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GalacticGPS\bin\Debug\GalacticGPS.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GalacticGPS\obj\Debug\GalacticGPS.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-OtherTypes-Homework\GalacticGPS\obj\Debug\GalacticGPS.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GalacticGPS\obj\Debug\GalacticGPS.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GalacticGPS\obj\Debug\GalacticGPS.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GalacticGPS\bin\Debug\GalacticGPS.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GalacticGPS\bin\Debug\GalacticGPS.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\OtherTypes\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsAndPolymHomework\BankOfKK\bin\Debug\BankOfKK.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsAndPolymHomework\BankOfKK\bin\Debug\BankOfKK.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsAndPolymHomework\BankOfKK\bin\Debug\BankOfKK.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsAndPolymHomework\BankOfKK\obj\Debug\BankOfKK.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsAndPolymHomework\BankOfKK\obj\Debug\BankOfKK.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\EncapsulationAndPolymorphism\EncapsAndPolymHomework\BankOfKK\obj\Debug\BankOfKK.pdb

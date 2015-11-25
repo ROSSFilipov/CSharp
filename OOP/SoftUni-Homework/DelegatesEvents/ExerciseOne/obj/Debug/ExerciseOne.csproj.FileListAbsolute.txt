@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DelegatesEvents-Homework\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DelegatesEvents-Homework\ExerciseOne\obj\Debug\ExerciseOne.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DelegatesEvents-Homework\ExerciseOne\bin\Debug\ExerciseOne.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DelegatesEvents-Homework\ExerciseOne\bin\Debug\ExerciseOne.pdb
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DelegatesEvents-Homework\ExerciseOne\obj\Debug\ExerciseOne.exe
+c:\users\user\documents\visual studio 2013\Projects\CSharp-OOP-DelegatesEvents-Homework\ExerciseOne\obj\Debug\ExerciseOne.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\ExerciseOne\obj\Debug\ExerciseOne.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\ExerciseOne\obj\Debug\ExerciseOne.csprojResolveAssemblyReference.cache

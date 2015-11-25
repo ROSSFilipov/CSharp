@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\AsynchronousTimer\bin\Debug\AsynchronousTimer.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\AsynchronousTimer\obj\Debug\AsynchronousTimer.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\AsynchronousTimer\bin\Debug\AsynchronousTimer.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\AsynchronousTimer\bin\Debug\AsynchronousTimer.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\AsynchronousTimer\obj\Debug\AsynchronousTimer.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\DelegatesEvents\AsynchronousTimer\obj\Debug\AsynchronousTimer.pdb

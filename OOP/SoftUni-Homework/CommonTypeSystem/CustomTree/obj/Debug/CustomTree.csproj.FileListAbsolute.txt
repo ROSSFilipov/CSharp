@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\CommonTypeSystem\CustomTree\bin\Debug\CustomTree.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\CommonTypeSystem\CustomTree\obj\Debug\CustomTree.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\CommonTypeSystem\CustomTree\bin\Debug\CustomTree.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\CommonTypeSystem\CustomTree\bin\Debug\CustomTree.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\CommonTypeSystem\CustomTree\obj\Debug\CustomTree.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\SoftUni-Homework\CommonTypeSystem\CustomTree\obj\Debug\CustomTree.pdb
