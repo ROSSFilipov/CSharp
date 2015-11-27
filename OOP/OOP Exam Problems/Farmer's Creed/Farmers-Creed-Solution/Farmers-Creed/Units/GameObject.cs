@@ -13,7 +13,10 @@
 
         public string Id
         {
-            get { return this.id; }
+            get 
+            { 
+                return this.id; 
+            }
             set
             {
                 if (String.IsNullOrEmpty(value))

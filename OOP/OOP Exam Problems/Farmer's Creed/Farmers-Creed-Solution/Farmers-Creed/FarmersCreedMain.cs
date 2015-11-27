@@ -7,7 +7,7 @@
     {
         static void Main()
         {
-            FarmSimulator simulator = new FarmSimulator();
+            FarmSimulator simulator = new UpgradedSimulator();
             simulator.Run();
         }
     }

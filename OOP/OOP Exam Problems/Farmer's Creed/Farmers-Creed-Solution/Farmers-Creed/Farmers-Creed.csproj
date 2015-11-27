@@ -41,21 +41,31 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Units\Animal.cs" />
+    <Compile Include="Simulator\UpgradedSimulator.cs" />
+    <Compile Include="Units\Animals\Animal.cs" />
     <Compile Include="Simulator\FarmSimulator.cs" />
+    <Compile Include="Units\Animals\Cow.cs" />
+    <Compile Include="Units\Animals\Swine.cs" />
+    <Compile Include="Units\ConstantValues\AnimalValues.cs" />
+    <Compile Include="Units\ConstantValues\FoodPlantValues.cs" />
     <Compile Include="Units\Farm.cs" />
     <Compile Include="Units\FarmUnit.cs" />
-    <Compile Include="Units\Food.cs" />
-    <Compile Include="Units\FoodType.cs" />
+    <Compile Include="Units\Products\Food.cs" />
+    <Compile Include="Units\Products\FoodType.cs" />
     <Compile Include="Units\GameObject.cs" />
     <Compile Include="Interfaces\IEdible.cs" />
     <Compile Include="Interfaces\IFarm.cs" />
     <Compile Include="Interfaces\IProduct.cs" />
     <Compile Include="Interfaces\IProductProducable.cs" />
-    <Compile Include="Units\Plant.cs" />
-    <Compile Include="Units\ProductType.cs" />
-    <Compile Include="Units\Product.cs" />
+    <Compile Include="Units\Plants\CherryTree.cs" />
+    <Compile Include="Units\Plants\FoodPlant.cs" />
+    <Compile Include="Units\Plants\Plant.cs" />
+    <Compile Include="Units\ConstantValues\PlantValues.cs" />
+    <Compile Include="Units\Products\ProductType.cs" />
+    <Compile Include="Units\Products\Product.cs" />
     <Compile Include="FarmersCreedMain.cs" />
+    <Compile Include="Units\Plants\TobaccoPlant.cs" />
+    <Compile Include="Units\UnitFactory.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="FarmDiagram.cd" />

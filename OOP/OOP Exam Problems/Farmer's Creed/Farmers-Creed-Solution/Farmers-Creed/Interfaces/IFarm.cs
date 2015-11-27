@@ -6,19 +6,27 @@
 
     public interface IFarm 
     {
-        List<Plant> Plants { get; }
+        IEnumerable<Plant> Plants { get; }
 
-        List<Animal> Animals { get; }
+        IEnumerable<Animal> Animals { get; }
 
-        List<Product> Products { get; }
+        IEnumerable<Product> Products { get; }
 
         void AddProduct(Product product);
 
+        void AddAnimal(Animal animal);
+
+        void AddPlant(Plant plant);
+
+        IProductProduceable GetPlantProducer(string id);
+
+        IProductProduceable GetAnimalProducer(string id);
+
         void Exploit(IProductProduceable productProducer);
 
-        void Feed(Animal animal, IEdible edibleProduct, int productQuantity);
+        void Feed(string animal, string edibleProduct, int productQuantity);
 
-        void Water(Plant plant);
+        void Water(string plant);
 
         void UpdateFarmState();
     }

@@ -106,7 +106,7 @@
             {
                 case "Grain":
                     {
-                        var food = new Food(id, ProductType.Grain, FoodType.Organic, 10, 2);
+                        Product food = UnitFactory.ProduceProduct(id, ProductType.Grain);
                         this.farm.AddProduct(food);
                     }
                     break;

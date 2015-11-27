@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Farmer's Creed\Farmers-Creed-Solution\Farmers-Creed\obj\Debug\Farmers-Creed.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Farmer's Creed\Farmers-Creed-Solution\Farmers-Creed\bin\Debug\Farm.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Farmer's Creed\Farmers-Creed-Solution\Farmers-Creed\bin\Debug\Farm.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Farmer's Creed\Farmers-Creed-Solution\Farmers-Creed\obj\Debug\Farm.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Farmer's Creed\Farmers-Creed-Solution\Farmers-Creed\obj\Debug\Farm.pdb

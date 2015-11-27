@@ -4,6 +4,7 @@
 
     public enum FoodType
     {
-        Organic
+        Organic,
+        Meat
     }
 }
