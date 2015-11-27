@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\MassEffect\Mass Effect-Solution\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\MassEffect\Mass Effect-Solution\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\MassEffect\Mass Effect-Solution\MassEffect\bin\Debug\MassEffect.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\MassEffect\Mass Effect-Solution\MassEffect\bin\Debug\MassEffect.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\MassEffect\Mass Effect-Solution\MassEffect\obj\Debug\MassEffect.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\MassEffect\Mass Effect-Solution\MassEffect\obj\Debug\MassEffect.pdb
