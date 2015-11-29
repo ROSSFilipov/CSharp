@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Restaurant Manager\RestaurantManager-Solution\bin\Debug\RestaurantManager.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Restaurant Manager\RestaurantManager-Solution\bin\Debug\RestaurantManager.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Restaurant Manager\RestaurantManager-Solution\obj\Debug\RestaurantManager.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Restaurant Manager\RestaurantManager-Solution\obj\Debug\RestaurantManager.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Restaurant Manager\RestaurantManager-Solution\obj\Debug\RestaurantManager.pdb
