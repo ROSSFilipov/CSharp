@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.Tests.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\bin\Debug\Longest-Increasing-Subsequence.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Longest-Increasing-Subsequence.Tests\obj\Debug\Longest-Increasing-Subsequence.Tests.pdb

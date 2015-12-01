@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\ClashOfKings\ClashOfKings-Solution\bin\Debug\ClashOfKings.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\ClashOfKings\ClashOfKings-Solution\bin\Debug\ClashOfKings.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\ClashOfKings\ClashOfKings-Solution\bin\Debug\ClashOfKings.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\ClashOfKings\ClashOfKings-Solution\obj\Debug\ClashOfKings.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\ClashOfKings\ClashOfKings-Solution\obj\Debug\ClashOfKings.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\ClashOfKings\ClashOfKings-Solution\obj\Debug\ClashOfKings.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.dll
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming-Lab\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.pdb
