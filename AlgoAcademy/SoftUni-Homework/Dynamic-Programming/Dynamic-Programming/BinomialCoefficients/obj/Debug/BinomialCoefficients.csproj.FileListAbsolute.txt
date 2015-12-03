@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\BinomialCoefficients\bin\Debug\BinomialCoefficients.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\BinomialCoefficients\bin\Debug\BinomialCoefficients.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\BinomialCoefficients\bin\Debug\BinomialCoefficients.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\BinomialCoefficients\obj\Debug\BinomialCoefficients.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\BinomialCoefficients\obj\Debug\BinomialCoefficients.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\BinomialCoefficients\obj\Debug\BinomialCoefficients.pdb

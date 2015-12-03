@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\LongestZigzagSubsequence\bin\Debug\LongestZigzagSubsequence.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\LongestZigzagSubsequence\bin\Debug\LongestZigzagSubsequence.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\LongestZigzagSubsequence\bin\Debug\LongestZigzagSubsequence.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\LongestZigzagSubsequence\obj\Debug\LongestZigzagSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\LongestZigzagSubsequence\obj\Debug\LongestZigzagSubsequence.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\LongestZigzagSubsequence\obj\Debug\LongestZigzagSubsequence.pdb

@@ -1,0 +1,1 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\SumOfCoinsUnlimited\bin\Debug\SumOfCoinsUnlimited.exe.config
