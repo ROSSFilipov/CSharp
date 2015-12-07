@@ -52,74 +52,19 @@ namespace ClashOfKings.Models.Commands
                     currentCity.ControllingHouse.Name, numberOfUnits, currentUnit.GetType().Name));
             }
 
-            var unitCollection = GetUnitCollection(commandParams[1], numberOfUnits);
+            var customType = currentUnit.GetType();
+
+            MilitaryUnit[] unitCollection = new MilitaryUnit[numberOfUnits];
+            for (int i = 0; i < numberOfUnits; i++)
+            {
+                unitCollection[i] = Activator.CreateInstance(customType) as MilitaryUnit;
+            }
 
             currentCity.AddUnits(unitCollection);
             currentCity.ControllingHouse.TreasuryAmount -= currentUnit.TrainingCost * numberOfUnits;
 
             Console.WriteLine("Successfully added {0} units of {1} to city {2}",
                 numberOfUnits, currentUnit.GetType().Name, commandParams[2]);
-        }
-
-        private MilitaryUnit[] GetUnitCollection(string type, int numberOfUnits)
-        {
-            MilitaryUnit[] collection; ;
-            switch (type)
-            {
-                case "FootSoldier":
-                    collection = new FootSoldier[numberOfUnits];
-                    for (int i = 0; i < numberOfUnits; i++)
-                    {
-                        collection[i] = new FootSoldier();
-                    }
-                    return collection;
-                case "SellSword":
-                    collection = new SellSword[numberOfUnits];
-                    for (int i = 0; i < numberOfUnits; i++)
-                    {
-                        collection[i] = new SellSword();
-                    }
-                    return collection;
-                case "Unsullied":
-                    collection = new Unsullied[numberOfUnits];
-                    for (int i = 0; i < numberOfUnits; i++)
-                    {
-                        collection[i] = new Unsullied();
-                    }
-                    return collection;
-                case "Dothraki": 
-                    collection = new Dothraki[numberOfUnits];
-                    for (int i = 0; i < numberOfUnits; i++)
-                    {
-                        collection[i] = new Dothraki();
-                    }
-                    return collection;
-                case "Horseman": 
-                collection = new Horseman[numberOfUnits];
-                    for (int i = 0; i < numberOfUnits; i++)
-                    {
-                        collection[i] = new Horseman();
-                    }
-                    return collection;
-                case "Knight": 
-                    collection = new Knight[numberOfUnits];
-                    for (int i = 0; i < numberOfUnits; i++)
-                    {
-                        collection[i] = new Knight();
-                    }
-                    return collection;
-                case "Dragon": 
-                    collection = new Dragon[numberOfUnits];
-                    for (int i = 0; i < numberOfUnits; i++)
-                    {
-                        collection[i] = new Dragon();
-                    }
-                    return collection;
-                default:
-                    {
-                        throw new InvalidOperationException();
-                    }
-            }
         }
 
         private IMilitaryUnit GetUnitType(string type)

@@ -28,6 +28,11 @@
             this.Type = type;
         }
 
+        public MilitaryUnit()
+        {
+
+        }
+
         public int Armor
         {
             get

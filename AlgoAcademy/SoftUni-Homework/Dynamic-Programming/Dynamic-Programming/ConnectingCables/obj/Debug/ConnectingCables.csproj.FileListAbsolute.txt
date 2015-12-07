@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\ConnectingCables\bin\Debug\ConnectingCables.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\ConnectingCables\bin\Debug\ConnectingCables.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\ConnectingCables\bin\Debug\ConnectingCables.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\ConnectingCables\obj\Debug\ConnectingCables.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\ConnectingCables\obj\Debug\ConnectingCables.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\AlgoAcademy\SoftUni-Homework\Dynamic-Programming\Dynamic-Programming\ConnectingCables\obj\Debug\ConnectingCables.pdb
