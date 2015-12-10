@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Capitalism\Capitalism\CapitalismMainProject\bin\Debug\CapitalismMainProject.exe.config
+C:\Users\user\Desktop\Capitalism\Capitalism\CapitalismMainProject\obj\Debug\CapitalismMainProject.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Capitalism\Capitalism\CapitalismMainProject\bin\Debug\CapitalismMainProject.exe
+C:\Users\user\Desktop\Capitalism\Capitalism\CapitalismMainProject\bin\Debug\CapitalismMainProject.pdb
+C:\Users\user\Desktop\Capitalism\Capitalism\CapitalismMainProject\obj\Debug\CapitalismMainProject.exe
+C:\Users\user\Desktop\Capitalism\Capitalism\CapitalismMainProject\obj\Debug\CapitalismMainProject.pdb
