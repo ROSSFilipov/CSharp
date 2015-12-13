@@ -15,6 +15,11 @@ namespace EmpiresMainProject.ControlCenter.Factories
 
         public static readonly BuildingFactory Instance = new BuildingFactory();
 
+        private BuildingFactory()
+        {
+
+        }
+
         public IBuilding ProduceBuilding(string buildingType)
         {
             Type currentBuilding = this.currentTypes.FirstOrDefault(x => x.Name.ToLower() == buildingType);
