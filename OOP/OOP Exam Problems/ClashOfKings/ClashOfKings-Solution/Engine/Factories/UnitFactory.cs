@@ -10,11 +10,11 @@
 
     public class UnitFactory : IUnitFactory
     {
+        private List<Type> currentTypes = Assembly.GetExecutingAssembly().GetTypes().ToList();
+
         public ICollection<IMilitaryUnit> CreateUnits(string unitTypeName, int count)
         {
-            var unitType = Assembly
-                .GetExecutingAssembly()
-                .GetTypes()
+            var unitType = this.currentTypes
                 .FirstOrDefault(type => type.CustomAttributes.Any(a => a.AttributeType == typeof(MilitaryUnitAttribute)) &&
                                         type.Name == unitTypeName);
 

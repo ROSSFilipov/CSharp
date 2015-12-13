@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EmpiresMainProject.Models.Resources
+{
+    public class Gold : Resource
+    {
+        public Gold(int quantity)
+            : base(ResourceType.Gold, quantity)
+        {
+        }
+    }
+}
