@@ -13,11 +13,23 @@ namespace EmpiresMainProject.ControlCenter.Factories
     {
         private IEnumerable<Type> currentTypes = Assembly.GetExecutingAssembly().GetTypes();
 
-        public static readonly BuildingFactory Instance = new BuildingFactory();
+        public static BuildingFactory instance;
 
         private BuildingFactory()
         {
+        }
 
+        public static BuildingFactory Instance
+        {
+            get
+            {
+                if (instance == null)
+                {
+                    instance = new BuildingFactory();
+                }
+
+                return instance;
+            }
         }
 
         public IBuilding ProduceBuilding(string buildingType)

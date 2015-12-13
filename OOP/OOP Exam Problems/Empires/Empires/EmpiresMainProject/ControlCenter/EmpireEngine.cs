@@ -50,7 +50,7 @@ namespace EmpiresMainProject.ControlCenter
 
         public virtual void Run()
         {
-            while (this.isOperational)
+            while (this.IsOperational)
             {
                 string[] currentLine = Console.ReadLine().Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
                 IGameCommand currentCommand = this.GetCommand(currentLine[0]);
