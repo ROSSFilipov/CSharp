@@ -48,7 +48,7 @@ namespace EmpiresMainProject.ControlCenter
             }
         }
 
-        public void Run()
+        public virtual void Run()
         {
             while (this.isOperational)
             {

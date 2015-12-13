@@ -11,7 +11,7 @@ namespace EmpiresMainProject.ControlCenter.Commands
     {
         private IEmpireEngine empireEngine;
 
-        public GameCommand(IEmpireEngine empireEngine)
+        protected GameCommand(IEmpireEngine empireEngine)
         {
             this.EmpireEngine = empireEngine;
         }

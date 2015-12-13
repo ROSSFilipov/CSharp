@@ -4,3 +4,9 @@ C:\Users\user\Desktop\Empires\Empires\EmpiresMainProject\bin\Debug\EmpiresMainPr
 C:\Users\user\Desktop\Empires\Empires\EmpiresMainProject\bin\Debug\EmpiresMainProject.pdb
 C:\Users\user\Desktop\Empires\Empires\EmpiresMainProject\obj\Debug\EmpiresMainProject.exe
 C:\Users\user\Desktop\Empires\Empires\EmpiresMainProject\obj\Debug\EmpiresMainProject.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Empires\Empires\EmpiresMainProject\bin\Debug\EmpiresMainProject.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Empires\Empires\EmpiresMainProject\obj\Debug\EmpiresMainProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Empires\Empires\EmpiresMainProject\obj\Debug\EmpiresMainProject.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Empires\Empires\EmpiresMainProject\bin\Debug\EmpiresMainProject.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Empires\Empires\EmpiresMainProject\bin\Debug\EmpiresMainProject.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\C#\OOP\OOP Exam Problems\Empires\Empires\EmpiresMainProject\obj\Debug\EmpiresMainProject.csprojResolveAssemblyReference.cache
