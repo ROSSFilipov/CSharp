@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace EmpiresMainProject.ControlCenter.Commands
 {
-    public class EndCommand : GameCommand
+    public class ArmisticeCommand : GameCommand
     {
-        public EndCommand(IEmpireEngine empireEngine)
+        public ArmisticeCommand(IEmpireEngine empireEngine)
             : base(empireEngine)
         {
         }

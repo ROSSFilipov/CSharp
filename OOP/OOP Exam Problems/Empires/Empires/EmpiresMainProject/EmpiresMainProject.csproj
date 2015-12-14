@@ -44,7 +44,7 @@
     <Compile Include="ControlCenter\Commands\BuildCommand.cs" />
     <Compile Include="ControlCenter\Commands\CommandValues.cs" />
     <Compile Include="ControlCenter\Commands\EmpireStatusCommand.cs" />
-    <Compile Include="ControlCenter\Commands\EndCommand.cs" />
+    <Compile Include="ControlCenter\Commands\ArmisticeCommand.cs" />
     <Compile Include="ControlCenter\Commands\GameCommand.cs" />
     <Compile Include="ControlCenter\Commands\SkipCommand.cs" />
     <Compile Include="ControlCenter\CustomExceptions\BuildingProductionException.cs" />
