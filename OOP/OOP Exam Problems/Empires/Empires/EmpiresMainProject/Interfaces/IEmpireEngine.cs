@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace EmpiresMainProject.Interfaces
 {
+    /// <summary>
+    /// The interface holds the main game engine
+    /// specifications.
+    /// </summary>
     public interface IEmpireEngine
     {
         bool IsOperational { get; set; }
@@ -16,6 +20,10 @@ namespace EmpiresMainProject.Interfaces
 
         HashSet<UnitType> UnitTypes { get; }
 
+        /// <summary>
+        /// The main game engine method which
+        /// indicates if the engine is currently running.
+        /// </summary>
         void Run();
 
         void AddBuilding(IBuilding buildingToBeAdded);

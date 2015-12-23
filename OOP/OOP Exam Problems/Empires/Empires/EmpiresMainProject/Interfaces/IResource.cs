@@ -7,6 +7,10 @@ using EmpiresMainProject.Models.Resources;
 
 namespace EmpiresMainProject.Interfaces
 {
+    /// <summary>
+    /// An interface holding all major properties
+    /// of a game resource.
+    /// </summary>
     public interface IResource
     {
         ResourceType Type { get; }

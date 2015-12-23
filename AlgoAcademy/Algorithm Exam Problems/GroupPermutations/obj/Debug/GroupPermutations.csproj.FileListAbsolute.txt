@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\GroupPermutations\bin\Debug\GroupPermutations.exe.config
+C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\GroupPermutations\bin\Debug\GroupPermutations.exe
+C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\GroupPermutations\bin\Debug\GroupPermutations.pdb
+C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\GroupPermutations\obj\Debug\GroupPermutations.exe
+C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\GroupPermutations\obj\Debug\GroupPermutations.pdb
