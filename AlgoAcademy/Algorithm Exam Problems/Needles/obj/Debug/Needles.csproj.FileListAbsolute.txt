@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Needles\bin\Debug\Needles.exe.config
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Needles\bin\Debug\Needles.exe
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Needles\bin\Debug\Needles.pdb
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Needles\obj\Debug\Needles.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Needles\obj\Debug\Needles.exe
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Needles\obj\Debug\Needles.pdb

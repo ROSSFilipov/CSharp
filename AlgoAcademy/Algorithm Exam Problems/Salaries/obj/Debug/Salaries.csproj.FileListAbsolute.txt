@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Salaries\bin\Debug\Salaries.exe.config
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Salaries\bin\Debug\Salaries.exe
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Salaries\bin\Debug\Salaries.pdb
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Salaries\obj\Debug\Salaries.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Salaries\obj\Debug\Salaries.exe
-C:\Users\user\Desktop\Algorithm Exam Problems\AlgorithmExamProblems\Salaries\obj\Debug\Salaries.pdb
