@@ -4,7 +4,6 @@ using System.Linq;
 
 class Guitar
 {
-    private static int[,] matrix;
     private static int finalResult;
     static void Main(string[] args)
     {
@@ -17,8 +16,6 @@ class Guitar
         int startingPower = int.Parse(Console.ReadLine());
         int maxPower = int.Parse(Console.ReadLine());
 
-        matrix = new int[n, n];
-
         HashSetArraySolution(numbers, startingPower, maxPower, n);
 
         Console.WriteLine(finalResult);
@@ -29,7 +26,7 @@ class Guitar
     /// possible solutions and at the end we find the biggest
     /// of them.
     /// Memory required: ~10MB.
-    /// Running time: 0.016s
+    /// Running time: 0.015s
     /// </summary>
     /// <param name="numbers"></param>
     /// <param name="startingPower"></param>
