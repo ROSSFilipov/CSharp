@@ -1,6 +1,0 @@
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\LoverOf3\bin\Debug\LoverOf3.exe.config
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\LoverOf3\bin\Debug\LoverOf3.exe
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\LoverOf3\bin\Debug\LoverOf3.pdb
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\LoverOf3\obj\Debug\LoverOf3.exe
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\LoverOf3\obj\Debug\LoverOf3.pdb
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\LoverOf3\obj\Debug\LoverOf3.csprojResolveAssemblyReference.cache

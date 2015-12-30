@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Patterns\bin\Debug\Patterns.exe.config
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Patterns\bin\Debug\Patterns.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Patterns\bin\Debug\Patterns.pdb
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Patterns\obj\Debug\Patterns.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Patterns\obj\Debug\Patterns.pdb

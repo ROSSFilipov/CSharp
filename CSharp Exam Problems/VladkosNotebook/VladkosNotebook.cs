@@ -2,11 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace VladkosNotebook
-{
-    internal class Player
+    public class Player
     {
         private string name;
 
@@ -175,4 +172,4 @@ namespace VladkosNotebook
             }
         }
     }
-}
+

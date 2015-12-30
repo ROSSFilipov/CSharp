@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Digits\bin\Debug\Digits.exe.config
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Digits\obj\Debug\Digits.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Digits\bin\Debug\Digits.exe
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Digits\bin\Debug\Digits.pdb
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Digits\obj\Debug\Digits.exe
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\Digits\obj\Debug\Digits.pdb

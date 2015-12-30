@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\ClearingCommands\bin\Debug\ClearingCommands.exe.config
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\ClearingCommands\bin\Debug\ClearingCommands.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\ClearingCommands\bin\Debug\ClearingCommands.pdb
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\ClearingCommands\obj\Debug\ClearingCommands.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\ClearingCommands\obj\Debug\ClearingCommands.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\ClearingCommands\obj\Debug\ClearingCommands.pdb

@@ -1,6 +1,0 @@
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\BadCat\bin\Debug\BadCat.exe.config
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\BadCat\bin\Debug\BadCat.exe
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\BadCat\bin\Debug\BadCat.pdb
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\BadCat\obj\Debug\BadCat.csprojResolveAssemblyReference.cache
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\BadCat\obj\Debug\BadCat.exe
-c:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\BadCat\obj\Debug\BadCat.pdb

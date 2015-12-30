@@ -1,6 +1,0 @@
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\PopulationCounterOOP\bin\Debug\PopulationCounterOOP.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\PopulationCounterOOP\bin\Debug\PopulationCounterOOP.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\PopulationCounterOOP\bin\Debug\PopulationCounterOOP.pdb
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\PopulationCounterOOP\obj\Debug\PopulationCounterOOP.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\PopulationCounterOOP\obj\Debug\PopulationCounterOOP.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\PopulationCounterOOP\obj\Debug\PopulationCounterOOP.pdb

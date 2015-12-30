@@ -1,6 +1,0 @@
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\LittleJohn\bin\Debug\LittleJohn.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\LittleJohn\bin\Debug\LittleJohn.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\LittleJohn\bin\Debug\LittleJohn.pdb
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\LittleJohn\obj\Debug\LittleJohn.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\LittleJohn\obj\Debug\LittleJohn.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\LittleJohn\obj\Debug\LittleJohn.pdb

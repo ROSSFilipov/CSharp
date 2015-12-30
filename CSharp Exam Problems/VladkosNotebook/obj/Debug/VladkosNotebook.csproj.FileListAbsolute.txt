@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\VladkosNotebook\bin\Debug\VladkosNotebook.exe.config
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\VladkosNotebook\bin\Debug\VladkosNotebook.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\VladkosNotebook\bin\Debug\VladkosNotebook.pdb
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\VladkosNotebook\obj\Debug\VladkosNotebook.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\VladkosNotebook\obj\Debug\VladkosNotebook.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\VladkosNotebook\obj\Debug\VladkosNotebook.pdb

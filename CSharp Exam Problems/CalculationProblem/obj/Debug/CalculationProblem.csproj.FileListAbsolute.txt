@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\CalculationProblem\bin\Debug\CalculationProblem.exe.config
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\CalculationProblem\bin\Debug\CalculationProblem.exe
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\CalculationProblem\bin\Debug\CalculationProblem.pdb
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\CalculationProblem\obj\Debug\CalculationProblem.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\CalculationProblem\obj\Debug\CalculationProblem.exe
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-05-03-2015-2\CalculationProblem\obj\Debug\CalculationProblem.pdb

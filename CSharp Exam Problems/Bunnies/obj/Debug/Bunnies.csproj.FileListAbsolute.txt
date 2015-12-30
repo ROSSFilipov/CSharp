@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Bunnies\bin\Debug\Bunnies.exe.config
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Bunnies\bin\Debug\Bunnies.exe
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Bunnies\bin\Debug\Bunnies.pdb
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Bunnies\obj\Debug\Bunnies.exe
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Bunnies\obj\Debug\Bunnies.pdb
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Bunnies\obj\Debug\Bunnies.csprojResolveAssemblyReference.cache

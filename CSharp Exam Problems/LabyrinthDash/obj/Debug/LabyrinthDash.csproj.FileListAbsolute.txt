@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\LabyrinthDash\bin\Debug\LabyrinthDash.exe.config
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\LabyrinthDash\bin\Debug\LabyrinthDash.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\LabyrinthDash\bin\Debug\LabyrinthDash.pdb
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\LabyrinthDash\obj\Debug\LabyrinthDash.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\LabyrinthDash\obj\Debug\LabyrinthDash.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Streams-Homework\LabyrinthDash\obj\Debug\LabyrinthDash.pdb

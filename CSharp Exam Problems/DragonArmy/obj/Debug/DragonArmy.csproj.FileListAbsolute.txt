@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonArmy\bin\Debug\DragonArmy.exe.config
-c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonArmy\bin\Debug\DragonArmy.exe
-c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonArmy\bin\Debug\DragonArmy.pdb
-c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonArmy\obj\Debug\DragonArmy.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonArmy\obj\Debug\DragonArmy.exe
-c:\users\user\documents\visual studio 2013\Projects\Java-Fundamentals-4-10-2015\DragonArmy\obj\Debug\DragonArmy.pdb

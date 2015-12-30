@@ -1,12 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
-namespace TheNumbers
-{
     class TheNumbers
     {
         static void Main(string[] args)
@@ -25,4 +20,4 @@ namespace TheNumbers
             Console.WriteLine(string.Join("-", numbers));
         }
     }
-}
+

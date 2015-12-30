@@ -1,6 +1,0 @@
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-11-02-2013\KukataIsDancing\bin\Debug\KukataIsDancing.exe.config
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-11-02-2013\KukataIsDancing\bin\Debug\KukataIsDancing.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-11-02-2013\KukataIsDancing\bin\Debug\KukataIsDancing.pdb
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-11-02-2013\KukataIsDancing\obj\Debug\KukataIsDancing.csprojResolveAssemblyReference.cache
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-11-02-2013\KukataIsDancing\obj\Debug\KukataIsDancing.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\CSharp-Advanced-Telerik-11-02-2013\KukataIsDancing\obj\Debug\KukataIsDancing.pdb

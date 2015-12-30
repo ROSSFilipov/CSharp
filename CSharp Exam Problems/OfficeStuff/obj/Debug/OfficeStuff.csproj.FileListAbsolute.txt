@@ -1,9 +1,0 @@
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\OfficeStuff\bin\Debug\OfficeStuff.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\OfficeStuff\bin\Debug\OfficeStuff.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\OfficeStuff\bin\Debug\OfficeStuff.pdb
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\OfficeStuff\obj\Debug\OfficeStuff.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\OfficeStuff\obj\Debug\OfficeStuff.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\OfficeStuff\obj\Debug\OfficeStuff.pdb
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\OfficeStuff\bin\Debug\OfficeStuff.exe.config
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\OfficeStuff\obj\Debug\OfficeStuff.exe
-C:\Users\user\Documents\Visual Studio 2013\Projects\SoftUni-CSharp-Advanced-19-07-2015\OfficeStuff\obj\Debug\OfficeStuff.pdb

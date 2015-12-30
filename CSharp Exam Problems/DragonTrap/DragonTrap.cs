@@ -2,203 +2,200 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace DragonTrap
+class DragonTrap
 {
-    class DragonTrap
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        int n = int.Parse(Console.ReadLine());
+
+        List<string> matrixCols = new List<string>();
+
+        for (int i = 0; i < n; i++)
         {
-            int n = int.Parse(Console.ReadLine());
-
-            List<string> matrixCols = new List<string>();
-
-            for (int i = 0; i < n; i++)
-            {
-                matrixCols.Add(Console.ReadLine());
-            }
-
-            char[,] originalMatrix = new char[n, matrixCols[0].Length];
-
-            FillMatrix(originalMatrix, matrixCols, n);
-
-            char[,] newMatrix = originalMatrix;
-
-            while (true)
-            {
-                string currentCommand = Console.ReadLine();
-
-                if (currentCommand == "End")
-                {
-                    break;
-                }
-
-                int[] numbers = currentCommand
-                    .Split(new char[] { ' ', '(', ')' }, StringSplitOptions.RemoveEmptyEntries)
-                    .Select(int.Parse)
-                    .ToArray();
-
-                int radius = numbers[2];
-                int startX = numbers[0] - radius;
-                int endX = numbers[0] + radius;
-                int startY = numbers[1] - radius;
-                int endY = numbers[1] + radius;
-                int rotations = numbers[3];
-
-                List<Tuple<int, int>> currentCharacters = new List<Tuple<int, int>>();
-
-                CollectCharacters(currentCharacters, newMatrix, startX, endX, startY, endY);
-
-                if (rotations < 0)
-                {
-                    RotateCounterClockwise(newMatrix, currentCharacters, rotations);
-                }
-                else
-                {
-                    RotateClockwise(newMatrix, currentCharacters, rotations);
-                }
-            }
-
-            PrintOutput(newMatrix, originalMatrix);
+            matrixCols.Add(Console.ReadLine());
         }
 
-        private static void RotateCounterClockwise(char[,] newMatrix, List<Tuple<int, int>> currentCharacters, int rotations)
+        char[,] originalMatrix = new char[n, matrixCols[0].Length];
+
+        FillMatrix(originalMatrix, matrixCols, n);
+
+        char[,] newMatrix = originalMatrix;
+
+        while (true)
         {
-            char[] charArray = new char[currentCharacters.Count];
+            string currentCommand = Console.ReadLine();
 
-            for (int i = 0; i < charArray.Length; i++)
+            if (currentCommand == "End")
             {
-                charArray[i] = newMatrix[currentCharacters[i].Item1, currentCharacters[i].Item2];
+                break;
             }
 
-            char[] rotatedChars = new char[charArray.Length];
+            int[] numbers = currentCommand
+                .Split(new char[] { ' ', '(', ')' }, StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
 
-            for (int i = 0; i < rotatedChars.Length; i++)
+            int radius = numbers[2];
+            int startX = numbers[0] - radius;
+            int endX = numbers[0] + radius;
+            int startY = numbers[1] - radius;
+            int endY = numbers[1] + radius;
+            int rotations = numbers[3];
+
+            List<Tuple<int, int>> currentCharacters = new List<Tuple<int, int>>();
+
+            CollectCharacters(currentCharacters, newMatrix, startX, endX, startY, endY);
+
+            if (rotations < 0)
             {
-                rotatedChars[i] = charArray[(i + rotations) % charArray.Length];
+                RotateCounterClockwise(newMatrix, currentCharacters, rotations);
             }
-
-            PlaceNewCharacters(newMatrix, rotatedChars, currentCharacters);
-        }
-
-        private static void RotateClockwise(char[,] newMatrix, List<Tuple<int, int>> currentCharacters, int rotations)
-        {
-            char[] charArray = new char[currentCharacters.Count];
-
-            for (int i = 0; i < charArray.Length; i++)
+            else
             {
-                charArray[i] = newMatrix[currentCharacters[i].Item1, currentCharacters[i].Item2];
-            }
-
-            char[] rotatedChars = new char[charArray.Length];
-
-            for (int i = 0; i < rotatedChars.Length; i++)
-            {
-                int position = (i - rotations) % charArray.Length;
-                if (position < 0)
-                {
-                    position += charArray.Length;
-                }
-                rotatedChars[i] = charArray[position];
-            }
-
-            PlaceNewCharacters(newMatrix, rotatedChars, currentCharacters);
-        }
-
-        private static void PlaceNewCharacters(char[,] newMatrix, char[] rotatedChars, List<Tuple<int, int>> currentCharacters)
-        {
-            for (int i = 0; i < rotatedChars.Length; i++)
-            {
-                newMatrix[currentCharacters[i].Item1, currentCharacters[i].Item2] = rotatedChars[i];
+                RotateClockwise(newMatrix, currentCharacters, rotations);
             }
         }
 
-        private static void FillMatrix(char[,] matrix, List<string> matrixCols, int n)
+        PrintOutput(newMatrix, originalMatrix);
+    }
+
+    private static void RotateCounterClockwise(char[,] newMatrix, List<Tuple<int, int>> currentCharacters, int rotations)
+    {
+        char[] charArray = new char[currentCharacters.Count];
+
+        for (int i = 0; i < charArray.Length; i++)
         {
-            for (int i = 0; i < n; i++)
-            {
-                string currentLine = matrixCols[i];
-                for (int j = 0; j < currentLine.Length; j++)
-                {
-                    matrix[i, j] = currentLine[j];
-                }
-            }
+            charArray[i] = newMatrix[currentCharacters[i].Item1, currentCharacters[i].Item2];
         }
 
-        private static void CollectCharacters(List<Tuple<int, int>> currentCharacters, char[,] newMatrix, int startX, int endX, int startY, int endY)
+        char[] rotatedChars = new char[charArray.Length];
+
+        for (int i = 0; i < rotatedChars.Length; i++)
         {
-            int X = startX;
-            int Y = endY;
-
-            while (X < endX)
-            {
-                if (IsInsideMatrix(X, Y, newMatrix))
-                {
-                    currentCharacters.Add(new Tuple<int, int>(X, Y));
-                }
-                X++;
-            }
-
-            while (Y > startY)
-            {
-                if (IsInsideMatrix(X, Y, newMatrix))
-                {
-                    currentCharacters.Add(new Tuple<int, int>(X, Y));
-                }
-                Y--;
-            }
-
-            while (X > startX)
-            {
-                if (IsInsideMatrix(X, Y, newMatrix))
-                {
-                    currentCharacters.Add(new Tuple<int, int>(X, Y));
-                }
-                X--;
-            }
-
-            while (Y < endY)
-            {
-                if (IsInsideMatrix(X, Y, newMatrix))
-                {
-                    currentCharacters.Add(new Tuple<int, int>(X, Y));
-                }
-                Y++;
-            }
+            rotatedChars[i] = charArray[(i + rotations) % charArray.Length];
         }
 
-        private static bool IsInsideMatrix(int X, int Y, char[,] newMatrix)
-        {
-            bool isInside =
-                X >= 0 &&
-                X < newMatrix.GetLength(0) &&
-                Y >= 0 &&
-                Y < newMatrix.GetLength(1);
+        PlaceNewCharacters(newMatrix, rotatedChars, currentCharacters);
+    }
 
-            return isInside;
+    private static void RotateClockwise(char[,] newMatrix, List<Tuple<int, int>> currentCharacters, int rotations)
+    {
+        char[] charArray = new char[currentCharacters.Count];
+
+        for (int i = 0; i < charArray.Length; i++)
+        {
+            charArray[i] = newMatrix[currentCharacters[i].Item1, currentCharacters[i].Item2];
         }
 
-        private static void PrintOutput(char[,] newMatrix, char[,] originalMatrix)
+        char[] rotatedChars = new char[charArray.Length];
+
+        for (int i = 0; i < rotatedChars.Length; i++)
         {
-            int changedSymbolsCounter = 0;
-
-            for (int i = 0; i < newMatrix.GetLength(0); i++)
+            int position = (i - rotations) % charArray.Length;
+            if (position < 0)
             {
-                for (int j = 0; j < newMatrix.GetLength(1); j++)
-                {
-                    if (originalMatrix[i, j] != newMatrix[i, j])
-                    {
-                        changedSymbolsCounter++;
-                    }
-
-                    Console.Write(newMatrix[i, j]);
-                }
-
-                Console.WriteLine();
+                position += charArray.Length;
             }
+            rotatedChars[i] = charArray[position];
+        }
 
-            Console.WriteLine("Symbols changed: {0}", changedSymbolsCounter);
+        PlaceNewCharacters(newMatrix, rotatedChars, currentCharacters);
+    }
+
+    private static void PlaceNewCharacters(char[,] newMatrix, char[] rotatedChars, List<Tuple<int, int>> currentCharacters)
+    {
+        for (int i = 0; i < rotatedChars.Length; i++)
+        {
+            newMatrix[currentCharacters[i].Item1, currentCharacters[i].Item2] = rotatedChars[i];
         }
     }
+
+    private static void FillMatrix(char[,] matrix, List<string> matrixCols, int n)
+    {
+        for (int i = 0; i < n; i++)
+        {
+            string currentLine = matrixCols[i];
+            for (int j = 0; j < currentLine.Length; j++)
+            {
+                matrix[i, j] = currentLine[j];
+            }
+        }
+    }
+
+    private static void CollectCharacters(List<Tuple<int, int>> currentCharacters, char[,] newMatrix, int startX, int endX, int startY, int endY)
+    {
+        int X = startX;
+        int Y = endY;
+
+        while (X < endX)
+        {
+            if (IsInsideMatrix(X, Y, newMatrix))
+            {
+                currentCharacters.Add(new Tuple<int, int>(X, Y));
+            }
+            X++;
+        }
+
+        while (Y > startY)
+        {
+            if (IsInsideMatrix(X, Y, newMatrix))
+            {
+                currentCharacters.Add(new Tuple<int, int>(X, Y));
+            }
+            Y--;
+        }
+
+        while (X > startX)
+        {
+            if (IsInsideMatrix(X, Y, newMatrix))
+            {
+                currentCharacters.Add(new Tuple<int, int>(X, Y));
+            }
+            X--;
+        }
+
+        while (Y < endY)
+        {
+            if (IsInsideMatrix(X, Y, newMatrix))
+            {
+                currentCharacters.Add(new Tuple<int, int>(X, Y));
+            }
+            Y++;
+        }
+    }
+
+    private static bool IsInsideMatrix(int X, int Y, char[,] newMatrix)
+    {
+        bool isInside =
+            X >= 0 &&
+            X < newMatrix.GetLength(0) &&
+            Y >= 0 &&
+            Y < newMatrix.GetLength(1);
+
+        return isInside;
+    }
+
+    private static void PrintOutput(char[,] newMatrix, char[,] originalMatrix)
+    {
+        int changedSymbolsCounter = 0;
+
+        for (int i = 0; i < newMatrix.GetLength(0); i++)
+        {
+            for (int j = 0; j < newMatrix.GetLength(1); j++)
+            {
+                if (originalMatrix[i, j] != newMatrix[i, j])
+                {
+                    changedSymbolsCounter++;
+                }
+
+                Console.Write(newMatrix[i, j]);
+            }
+
+            Console.WriteLine();
+        }
+
+        Console.WriteLine("Symbols changed: {0}", changedSymbolsCounter);
+    }
 }
+

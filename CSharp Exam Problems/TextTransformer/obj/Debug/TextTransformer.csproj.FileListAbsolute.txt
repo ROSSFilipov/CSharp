@@ -1,6 +1,0 @@
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TextTransformer\bin\Debug\TextTransformer.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TextTransformer\bin\Debug\TextTransformer.exe
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TextTransformer\bin\Debug\TextTransformer.pdb
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TextTransformer\obj\Debug\TextTransformer.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TextTransformer\obj\Debug\TextTransformer.exe
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\TextTransformer\obj\Debug\TextTransformer.pdb

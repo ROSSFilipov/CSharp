@@ -1,6 +1,0 @@
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\UppercaseWords\bin\Debug\UppercaseWords.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\UppercaseWords\bin\Debug\UppercaseWords.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\UppercaseWords\bin\Debug\UppercaseWords.pdb
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\UppercaseWords\obj\Debug\UppercaseWords.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\UppercaseWords\obj\Debug\UppercaseWords.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-FuncProgramming-Homework\UppercaseWords\obj\Debug\UppercaseWords.pdb

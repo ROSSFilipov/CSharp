@@ -1,6 +1,0 @@
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\StringMatrixRotation\bin\Debug\StringMatrixRotation.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\StringMatrixRotation\bin\Debug\StringMatrixRotation.pdb
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\StringMatrixRotation\obj\Debug\StringMatrixRotation.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\StringMatrixRotation\obj\Debug\StringMatrixRotation.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Homework-Arrays-Matrices\StringMatrixRotation\obj\Debug\StringMatrixRotation.pdb

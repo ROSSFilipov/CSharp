@@ -1,6 +1,0 @@
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\OlympicsAreComing\bin\Debug\OlympicsAreComing.exe
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\OlympicsAreComing\bin\Debug\OlympicsAreComing.pdb
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\OlympicsAreComing\obj\Debug\OlympicsAreComing.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\OlympicsAreComing\obj\Debug\OlympicsAreComing.exe
-C:\Users\user\documents\visual studio 2013\Projects\SoftUni-CSharp-Advanced-31-05-2015\OlympicsAreComing\obj\Debug\OlympicsAreComing.pdb

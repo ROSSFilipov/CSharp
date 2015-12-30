@@ -1,6 +1,0 @@
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\RelevanceIndex\bin\Debug\RelevanceIndex.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\RelevanceIndex\bin\Debug\RelevanceIndex.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\RelevanceIndex\bin\Debug\RelevanceIndex.pdb
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\RelevanceIndex\obj\Debug\RelevanceIndex.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\RelevanceIndex\obj\Debug\RelevanceIndex.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\RelevanceIndex\obj\Debug\RelevanceIndex.pdb

@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\problem1\bin\Debug\problem1.exe.config
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\problem1\bin\Debug\problem1.exe
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\problem1\bin\Debug\problem1.pdb
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\problem1\obj\Debug\problem1.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\problem1\obj\Debug\problem1.exe
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\problem1\obj\Debug\problem1.pdb

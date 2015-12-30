@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Unleashed\bin\Debug\Unleashed.exe.config
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Unleashed\bin\Debug\Unleashed.exe
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Unleashed\bin\Debug\Unleashed.pdb
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Unleashed\obj\Debug\Unleashed.csprojResolveAssemblyReference.cache
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Unleashed\obj\Debug\Unleashed.exe
-c:\users\user\documents\visual studio 2013\Projects\exam-advanced\Unleashed\obj\Debug\Unleashed.pdb

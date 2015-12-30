@@ -1,6 +1,0 @@
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\UseYourChainsBuddy\bin\Debug\UseYourChainsBuddy.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\UseYourChainsBuddy\bin\Debug\UseYourChainsBuddy.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\UseYourChainsBuddy\bin\Debug\UseYourChainsBuddy.pdb
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\UseYourChainsBuddy\obj\Debug\UseYourChainsBuddy.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\UseYourChainsBuddy\obj\Debug\UseYourChainsBuddy.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Regex-Homework\UseYourChainsBuddy\obj\Debug\UseYourChainsBuddy.pdb

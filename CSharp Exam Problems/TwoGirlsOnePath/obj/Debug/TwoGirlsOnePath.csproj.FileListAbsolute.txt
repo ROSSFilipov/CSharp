@@ -1,6 +1,0 @@
-c:\users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe.config
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.pdb
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.csprojResolveAssemblyReference.cache
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.exe
-C:\Users\user\documents\visual studio 2013\Projects\CSharp-Advanced-Telerik-24-01-2014\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.pdb
