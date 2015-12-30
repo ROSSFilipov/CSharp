@@ -8,6 +8,8 @@ class LineInverter
     private static int inversionCounter = 0;
     private static int whiteCounter = 0;
     private static int blackCounter = 0;
+    private static readonly HashSet<int> usedRows = new HashSet<int>();
+    private static readonly HashSet<int> usedCollumns = new HashSet<int>();
     private static bool solutionFound = false;
     static void Main(string[] args)
     {
@@ -80,39 +82,49 @@ class LineInverter
 
         for (int i = 0; i < boardSize; i++)
         {
-            int currentBlackCounter = blackCounter;
-            InvertRow(i, boardSize);
-            int currentBlackCells = CalculateConnectedCells(boardSize);
-            if (blackCounter > currentBlackCounter)
+            if (!usedRows.Contains(i))
             {
-                return true;
-            }
-            else if (currentBlackCells > connectedBlackCells && blackCounter >= currentBlackCounter)
-            {
-                return true;
-            }
-            else
-            {
+                int currentBlackCounter = blackCounter;
                 InvertRow(i, boardSize);
+                int currentBlackCells = CalculateConnectedCells(boardSize);
+                if (blackCounter > currentBlackCounter)
+                {
+                    usedRows.Add(i);
+                    return true;
+                }
+                else if (currentBlackCells > connectedBlackCells && blackCounter >= currentBlackCounter)
+                {
+                    usedRows.Add(i);
+                    return true;
+                }
+                else
+                {
+                    InvertRow(i, boardSize);
+                }
             }
         }
 
         for (int i = 0; i < boardSize; i++)
         {
-            int currentBlackCounter = blackCounter;
-            InvertCollumn(i, boardSize);
-            int currentBlackCells = CalculateConnectedCells(boardSize);
-            if (blackCounter > currentBlackCounter)
+            if (!usedCollumns.Contains(i))
             {
-                return true;
-            }
-            else if (currentBlackCells > connectedBlackCells && blackCounter >= currentBlackCounter)
-            {
-                return true;
-            }
-            else
-            {
+                int currentBlackCounter = blackCounter;
                 InvertCollumn(i, boardSize);
+                int currentBlackCells = CalculateConnectedCells(boardSize);
+                if (blackCounter > currentBlackCounter)
+                {
+                    usedCollumns.Add(i);
+                    return true;
+                }
+                else if (currentBlackCells > connectedBlackCells && blackCounter >= currentBlackCounter)
+                {
+                    usedCollumns.Add(i);
+                    return true;
+                }
+                else
+                {
+                    InvertCollumn(i, boardSize);
+                }
             }
         }
 
