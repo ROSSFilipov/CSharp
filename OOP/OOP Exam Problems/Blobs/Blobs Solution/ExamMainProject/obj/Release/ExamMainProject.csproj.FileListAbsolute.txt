@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\OOPExam\ExamTask\ExamMainProject\bin\Release\ExamMainProject.exe.config
+C:\Users\user\Desktop\OOPExam\ExamTask\ExamMainProject\bin\Debug\ExamMainProject.exe.config

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExamMainProject</name>
+    </assembly>
+    <members>
+        <member name="T:ExamMainProject.ControlCenter.Commands.GameCommand">
+            <summary>
+            The project's functionality can be easily extended by adding more commands.
+            As the command factory is reflection based in order for you to add an additional
+            command you just need to use the [CommandAttribute] and "Command" postfix in the
+            class name.
+            </summary>
+        </member>
+        <member name="T:ExamMainProject.ControlCenter.GameEngine">
+            <summary>
+            In case you would like to ugrade the engine with additional functionalities without changing the current class
+            the Run() and Stop() methods could be overriden.
+            </summary>
+            <param name="Run()"> The main method of the engine. Starts the program. </param>
+        </member>
+        <member name="T:ExamMainProject.ControlCenter.ValidationControl">
+            <summary>
+            This class allows you to maintain control of the whole project.
+            1. You can easily turn on/off property integer and string validations when needed.
+            2. Here Regex validation patterns could be implemented and changed.
+            3. The global round delay can also be changed here.
+            </summary>
+        </member>
+    </members>
+</doc>

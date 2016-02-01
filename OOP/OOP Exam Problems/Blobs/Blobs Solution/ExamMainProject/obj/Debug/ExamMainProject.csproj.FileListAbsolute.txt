@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\OOPExam\ExamTask\ExamMainProject\bin\Debug\ExamMainProject.exe.config
+C:\Users\user\Desktop\OOPExam\ExamTask\ExamMainProject\bin\Debug\ExamMainProject.exe
+C:\Users\user\Desktop\OOPExam\ExamTask\ExamMainProject\bin\Debug\ExamMainProject.pdb
+C:\Users\user\Desktop\OOPExam\ExamTask\ExamMainProject\obj\Debug\ExamMainProject.exe
+C:\Users\user\Desktop\OOPExam\ExamTask\ExamMainProject\obj\Debug\ExamMainProject.pdb
+C:\Users\user\Desktop\OOPExam\ExamTask\ExamMainProject\obj\Debug\ExamMainProject.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\OOPExam\ExamTask\ExamMainProject\bin\Debug\ExamMainProject.XML
